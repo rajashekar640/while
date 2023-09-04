@@ -9,7 +9,7 @@ class While{
         i++;
         }
     
-        System.out.println("bye");
+       
         
     }
 }
