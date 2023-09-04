@@ -1,12 +1,16 @@
 class While{
     public static void main(String arg[])
     {
-        int i = 1;
+        int i = 2;
+        int j= 9;
 
         while(i<=8)
-        {
-        System.out.println("hello" + i);
-        i++;
-        }
+       {
+        System.out.println(i);
+         i++;
     }
-}
+        }
+    
+    
+        
+    }
