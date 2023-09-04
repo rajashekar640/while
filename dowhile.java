@@ -3,7 +3,7 @@
 
     
 
-    int i= 3;
+    int i= 5;
     do
     {
         System.out.println(i);
@@ -11,6 +11,9 @@
 
     }
     while(i<=4);
+
+    //to print something we use do while, if i value is more to print atlease something we use do
+
 
     
 }
